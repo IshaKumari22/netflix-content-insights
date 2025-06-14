@@ -1,5 +1,9 @@
 📊 Netflix Content Insights Dashboard
+
+
 📝 Overview
+
+
 This interactive Power BI dashboard provides visual insights into Netflix's content catalog. It helps explore trends based on type, release year, country, rating, and director activity.
 
 📂 Tools Used

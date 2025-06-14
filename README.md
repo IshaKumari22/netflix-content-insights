@@ -47,26 +47,33 @@ Dashboard Preview
 Slicers & KPIs
 
 ### 🔹 Main Dashboard
+
 ![Main Dashboard](Main_dashboard.png)
 
 ### 🔹 Movie Insights
+
 ![Movies](Movies.png)
 
 ### 🔹 TV Shows Insights
+
 ![TV Shows](TV%20Shows.png)
 
 ### 🔹 Country Drilldowns
 
 **Afghanistan**
+
 ![Afghanistan](Afghanistan.png)
 
 **Ireland – Movies**
+
 ![Ireland Movies](Ireland_Movies.png)
 
 **Ireland – TV Shows**
+
 ![Ireland TV Shows](Ireland_tv%20shows.png)
 
 **Ireland – Total**
+
 ![Ireland Total](Ireland_total.png)
 
 ✅ Insights Gained

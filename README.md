@@ -46,13 +46,13 @@ Dashboard Preview
 
 Slicers & KPIs
 ### 🔹 Main Dashboard
-![Main Dashboard](Maindashboard.png)
+![Main Dashboard](Main dashboard.png)
 
 ### 🔹 Movie Insights
 ![Movies](Movies.png)
 
 ### 🔹 TV Shows Insights
-![TV Shows](TVShows.png)
+![TV Shows](TV Shows.png)
 
 ### 🔹 Country Drilldowns
 

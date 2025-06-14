@@ -46,7 +46,7 @@ Dashboard Preview
 
 Slicers & KPIs
 ### 🔹 Main Dashboard
-![Main Dashboard](Main dashboard.png)
+![Main Dashboard](Maindashboard.png)
 
 ### 🔹 Movie Insights
 ![Movies](Movies.png)

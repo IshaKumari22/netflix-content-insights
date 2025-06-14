@@ -45,6 +45,7 @@ Earliest and latest content year
 Dashboard Preview
 
 Slicers & KPIs
+
 ### 🔹 Main Dashboard
 ![Main Dashboard](Main%20dashboard.png)
 
@@ -63,7 +64,7 @@ Slicers & KPIs
 ![Ireland Movies](Ireland_Movies.png)
 
 **Ireland – TV Shows**
-![Ireland TV Shows](Ireland_shows.png)
+![Ireland TV Shows](Ireland_tv%20shows.png)
 
 **Ireland – Total**
 ![Ireland Total](Ireland_total.png)
